@@ -65,7 +65,11 @@ var getMyBands = function (artist) {
     axios.get(queryURL).then(
         function (response) {
             var jsonData = response.data;
+<<<<<<< HEAD
+            console.log('jsondata', jsonData)
+=======
 
+>>>>>>> a6efdbd12955a25286ba85ea129479efe7ebcb82
             if (!jsonData.length) {
                 console.log("No results found for " + artist);
                 return;
@@ -75,6 +79,10 @@ var getMyBands = function (artist) {
 
             for (var i = 0; i < jsonData.length; i++) {
                 var show = jsonData[i];
+<<<<<<< HEAD
+                console.log ('show', show);
+=======
+>>>>>>> a6efdbd12955a25286ba85ea129479efe7ebcb82
 
                 // Print data about each concert
                 // If a concert doesn't have a region, display the country instead
