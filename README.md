@@ -12,8 +12,8 @@ The app depends on some important packages/credentials and keys to run or load. 
 7. Function for determining which command is executed,
 8. Function which takes in command line arguments and executes correct function accordingly.
 9. I encountered some bugs and the app development was time cosumimg. However, I was able to build the app successfuly. 
-![Liriscr1](Liriscr1.png)
-![Liriscr2](Liriscr2.png)
-![Liriscr3](Liriscr3.png)
-![Liriscr4](Liriscr4.png)
-![Liriscr5](Liriscr5.png)
+![Liriscr1](Assets/Liriscr1.png)
+![Liriscr2](Assets/Liriscr2.png)
+![Liriscr3](Assets/Liriscr3.png)
+![Liriscr4](Assets/Liriscr4.png)
+![Liriscr5](Assets/Liriscr5.png)
