@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # liri-node-app
 Liri is like iphone's Siri or window's contana. However, Liri is an app with command line node app that takes in parameters and gives you back data unlike siri and Contana that are speech interpretation and recognition interface.
 
@@ -15,6 +14,3 @@ The app depends on some important packages/credentials and keys to run or load. 
 9. I encountered some bugs and the app development was time cosumimg. However, I was able to build the app successfuly. 
 
 
-=======
-# liri-node-app
->>>>>>> Initial commit
